@@ -1,7 +1,7 @@
 
 # Sudoku Solver
 
-Creating a Sudoku Solver using Python
+Created a Sudoku Solver using Python
 
 ## Demo
 
