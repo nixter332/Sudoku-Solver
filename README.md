@@ -15,7 +15,7 @@ Now after running the code on your editor,input the numbers as shown on the site
 
 ##Functionalities Used
 
-Python   
-Pyautogui    
-Numpy    
+1.Python   
+2.Pyautogui    
+3.Numpy    
 
